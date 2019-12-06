@@ -4,4 +4,4 @@ Este projeto surgiu para suprir a necessidade de um gerenciador de atribuição 
 
 ##Próximas Tarefas
 
-[] Criar suporte multiempresa
+- [ ] Criar suporte multiempresa
